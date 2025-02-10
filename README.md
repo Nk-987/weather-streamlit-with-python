@@ -15,8 +15,7 @@ Ensure you have Python 3.7+ and pip installed.
 Installation
 Clone the Repository
 
-git clone https://github.com/manikolbe/city_weather_dashboard_streamlit_example.git
-cd city_weather_dashboard_streamlit_example
+
 Install Required Packages
 
 pip install -r requirements.txt
